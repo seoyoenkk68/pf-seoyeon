@@ -51,10 +51,10 @@ else if ( $pageCode == "contact" ) {
 
 
     <!-- CSS 불러오기 -->
-    <link rel="stylesheet" href="/resource/index.css">
+    <link rel="stylesheet" href="index.css">
 
     <!-- JS 불러오기 -->
-    <script src="/resource/index.js" defer></script>
+    <script src="index.js" defer></script>
 
 
 </head>
