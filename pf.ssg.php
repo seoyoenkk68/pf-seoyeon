@@ -13,7 +13,7 @@ $pageCode="pf";
         <div class="flex-grow"></div>
         <ul class="flex">
           <li data-tb="tab-box-1__1__head" data-tb-clicked><a href="#" class="flex p-5 font-bold">Web/Mobile</a></li>
-          <li data-tb="tab-box-1__2__head"><a href="#" class="flex p-5 font-bold">artwork</a></li>
+          <li data-tb="tab-box-1__2__head"><a href="#" class="flex p-5 font-bold">Artwork</a></li>
           <!--           <li data-tb="tab-box-1__3__head"><a href="#" class="flex p-5 font-bold">artwork</a></li> -->
         </ul>
       </div>
@@ -103,25 +103,25 @@ $pageCode="pf";
           <li data-tb="tab-box-1__2__body">
             <ul class="artwork list flex">
               <li>
-                <a href="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork1.jpg" data-lightbox="image-1"
-                  data-title="일러스트레이터 실습 - 영화 인셉션 아트 포스터">
-                  <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artworkfull1.jpg" alt="">
+                <a href="/image/artworkfull1.png" data-lightbox="image-1" data-title="일러스트레이터 실습 - 영화 인셉션 아트 포스터">
+                  <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork1.png"
+                    alt="">
                 </a>
               </li>
               <li>
-                <a href="">
-                  <img src="" alt="">
+                <a href="/image/artworkfull2.png" data-lightbox="image-1" data-title="포토샵 실습 - 사진전 포스터 - 1">
+                  <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork2.png"
+                    alt="">
                 </a>
               </li>
               <li>
-                <a href="">
-                  <img src="" alt="">
+                <a href="/image/artworkfull3.png" data-lightbox="image-1" data-title="포토샵 실습 - 사진전 포스터 - 2">
+                  <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork3.png"
+                    alt="">
                 </a>
               </li>
               <li>
-                <a href="">
-                  <img src="" alt="">
-                </a>
+                <div class="img empty"></div>
               </li>
             </ul>
           </li>
