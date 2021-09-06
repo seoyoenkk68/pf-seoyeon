@@ -116,7 +116,7 @@ $pageCode="aboutMe";
             <span class="title">Design Tool</span>
             <div class="content-box content-box-1 flex">
               <div class="box-wrap box-wrap-1 flex">
-                <img src="https://i.postimg.cc/3xpGFg0x/Group-37.png" alt="">
+                <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_ps.png" alt="">
                 <span>
                   사진 보정과 편집, 합성이 가능하며
                   필터 및 효과를 다양하게 응용하여
@@ -124,7 +124,7 @@ $pageCode="aboutMe";
                 </span>
               </div>
               <div class="box-wrap box-wrap-2 flex">
-                <img src="https://i.postimg.cc/zfrgtVTS/Group-38.png" alt="">
+                <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_ai.png" alt="">
                 <span>
                   백터 이미지를 필요로 하는 로고와 아이콘
                   제작이 가능하며 펜툴을 이용한 간단한
@@ -132,7 +132,7 @@ $pageCode="aboutMe";
                 </span>
               </div>
               <div class="box-wrap box-wrap-3 flex">
-                <img src="https://i.postimg.cc/mDZF4JXP/Group-39.png" alt="">
+                <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_fg.png" alt="">
                 <span>
                   오토레이아웃과, 스타일, 컴포넌트에 대한 이해가 있고
                   이를 활용하여 일관성 있는 UI/UX 디자인이 가능합니다.
@@ -142,7 +142,7 @@ $pageCode="aboutMe";
             <span class="title">Web Coding Tool</span>
             <div class="content-box content-box-2 flex">
               <div class="box-wrap box-wrap-1 flex">
-                <img src="https://i.postimg.cc/xTXMcr0H/Group-40.png" alt="">
+                <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_html.png" alt="">
                 <span>
                   사진 보정과 편집, 합성이 가능하며
                   필터 및 효과를 다양하게 응용하여
@@ -150,7 +150,7 @@ $pageCode="aboutMe";
                 </span>
               </div>
               <div class="box-wrap box-wrap-2 flex">
-                <img src="https://i.postimg.cc/L6GfPyXW/Group-41.png" alt="">
+                <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_css.png" alt="">
                 <span>
                   백터 이미지를 필요로 하는 로고와 아이콘
                   제작이 가능하며 펜툴을 이용한 간단한
@@ -158,7 +158,7 @@ $pageCode="aboutMe";
                 </span>
               </div>
               <div class="box-wrap box-wrap-3 flex">
-                <img src="https://i.postimg.cc/Jh5B9Mqw/Group-42.png" alt="">
+                <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_jq.png" alt="">
                 <span>
                   오토레이아웃과, 스타일, 컴포넌트에 대한 이해가 있고
                   이를 활용하여 일관성 있는 UI/UX 디자인이 가능합니다.
