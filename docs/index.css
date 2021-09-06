@@ -905,6 +905,22 @@ html>body>#fp-nav>ul>li>a>.fp-sr-only {
 }
 
 /* 프로필 끝 */
+
+a.top-btn {
+  display: block;
+  padding: 13px 10px;
+  font-size: 0.8rem;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  z-index: 100;
+  color: #fff;
+  right: 30px;
+  bottom: 30px;
+}
+
+
 /* 어바웃미끝 */
 
 /* 포트폴리오 시작 */

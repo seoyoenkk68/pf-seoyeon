@@ -84,23 +84,23 @@
       We will be a good medium for proper communication through good design and valid implementation.
     </div>
     <div class="button">
-      <a href="aboutMe.html#readMore"><img src="https://i.postimg.cc/15CG7sLL/home-4.png" alt=""></a>
+      <a href="aboutMe.html#readMore"><img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/index_btn.png" alt=""></a>
     </div>
     <div class="graphic1">
       <img class="mousemove-effect-1-el" data-mousemove-effect1-hor-res="0.004" data-mousemove-effect1-ver-res="0.004"
-        src="https://i.postimg.cc/Dzs1zs8T/home-1.png" alt="">
+        src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/index_main_1.png" alt="">
       <img class="mousemove-effect-1-el" data-mousemove-effect1-hor-res="-0.005" data-mousemove-effect1-ver-res="-0.005"
-        src="https://i.postimg.cc/ydy9mHmp/home-2.png" alt="">
+        src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/index_main_2.png" alt="">
     </div>
     <div class="graphic2">
-      <img src="https://i.postimg.cc/4dgVHd9h/home-3.png" alt="">
+      <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/index_bggp.png" alt="">
     </div>
     <div class="graphic3">
       <div class="line"></div>
       <div class="circle"></div>
     </div>
     <div class="graphic4">
-      <img src="https://i.postimg.cc/3xzg79r1/home-5.png" alt="">
+      <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/index_pf.png" alt="">
     </div>
     <div class="bg-line">
       <div></div>
