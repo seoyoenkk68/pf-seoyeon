@@ -25,11 +25,12 @@
   <!-- 흔들림 효과 -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script>
 
+
   <!-- CSS 불러오기 -->
-  <link rel="stylesheet" href="/resource/common.css">
+  <link rel="stylesheet" href="/resource/index.css">
 
   <!-- JS 불러오기 -->
-  <script src="/resource/common.js" defer></script>
+  <script src="/resource/index.js" defer></script>
 
   <style>
     body {
