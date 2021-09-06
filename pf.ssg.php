@@ -100,8 +100,31 @@ $pageCode="pf";
               </li>
             </ul>
           </li>
-          <li data-tb="tab-box-1__2__body">내용2</li>
-          <!--           <li data-tb="tab-box-1__3__body">내용3</li> -->
+          <li data-tb="tab-box-1__2__body">
+            <ul class="artwork list flex">
+              <li>
+                <a href="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork1.jpg" data-lightbox="image-1"
+                  data-title="일러스트레이터 실습 - 영화 인셉션 아트 포스터">
+                  <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artworkfull1.jpg" alt="">
+                </a>
+              </li>
+              <li>
+                <a href="">
+                  <img src="" alt="">
+                </a>
+              </li>
+              <li>
+                <a href="">
+                  <img src="" alt="">
+                </a>
+              </li>
+              <li>
+                <a href="">
+                  <img src="" alt="">
+                </a>
+              </li>
+            </ul>
+          </li>
         </ul>
       </div>
     </div>
