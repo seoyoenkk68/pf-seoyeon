@@ -115,7 +115,7 @@ $pageCode="pf";
                 </a>
               </li>
               <li>
-                <a href="/image/artworkfull3.png" data-lightbox="image-1" data-title="포토샵 실습 - 사진전 포스터 - 2">
+                <a href="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artworkfull3.png" data-lightbox="image-1" data-title="포토샵 실습 - 사진전 포스터 - 2">
                   <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork3.png"
                     alt="">
                 </a>
