@@ -199,3 +199,6 @@ function sendEmailForm(form) {
   form.submit1.innerHTML = '전송되었습니다.';
   form.submit1.disabled = true;
 }
+
+//나이스 스크롤
+$('body').niceScroll();
