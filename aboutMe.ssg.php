@@ -196,9 +196,9 @@ $pageCode="aboutMe";
             </div>
           </div>
           <div class="btn-wrap flex">
-            <div class="btn btn-1"><a href="#">INSTAGRAM</a></div>
-            <div class="btn btn-2"><a href="#">BLOG</a></div>
-            <div class="btn btn-3"><a href="#">PORTFOLIO</a></div>
+            <div class="btn btn-1"><a href="https://www.instagram.com/wd_seoyeon" target="_blank">INSTAGRAM</a></div>
+            <div class="btn btn-2"><a href="https://wiken.io/b/241" target="_blank">BLOG</a></div>
+            <div class="btn btn-3"><a href="pf.html">PORTFOLIO</a></div>
           </div>
         </div>
       </div>
