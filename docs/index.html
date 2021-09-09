@@ -57,12 +57,15 @@
           <li><a href="contact.html">CONTACT</a></li>
         </ul>
       </nav>
-      <div class="flex-grow"></div>
+      <div class="flex-grow none-flex-grow"></div>
       <div class="link">
         <ul class="flex h-full items-center justify-center">
           <li><a href="https://www.instagram.com/wd_seoyeon" target="_blank">INSTAGRAM</a></li>
           <li><a href="https://wiken.io/b/241" target="_blank">TECH BLOG</a></li>
         </ul>
+      </div>
+      <div class="hg-menu">
+        <img src="/image/index_hg-menu.png" alt="">
       </div>
     </div>
   </header>
@@ -91,6 +94,7 @@
         src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/index_main_1.png" alt="">
       <img class="mousemove-effect-1-el" data-mousemove-effect1-hor-res="-0.005" data-mousemove-effect1-ver-res="-0.005"
         src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/index_main_2.png" alt="">
+      <img class="ver" src="/image/inde_main1_ver.png" alt="">
     </div>
     <div class="graphic2">
       <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/index_bggp.png" alt="">
