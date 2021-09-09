@@ -80,6 +80,9 @@
     <div class="sub_txt">
       <span>WEB DESIGN / PUBLISING</span>
     </div>
+    <div class="sub_txt sub_txt_rsp">
+      <span>PORTFOLIO</span>
+    </div>
     <div class="info info1">
       A good deliverer means a person who designs good things for clients.
     </div>

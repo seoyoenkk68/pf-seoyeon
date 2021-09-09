@@ -76,6 +76,10 @@ header.home .hg-menu {
   display: none;
 }
 
+section.home>.sub_txt_rsp {
+  display: none;
+}
+
 /* 헤더 메뉴 호버 효과 시작 */
 header>.wrap li>a {
   position: relative;
@@ -1199,6 +1203,10 @@ a.top-btn {
 /* 반응형 작업 시작 */
 @media (max-width:415px) {
 
+  body {
+    max-height: 100vh;
+  }
+
   header.home>.wrap {
     height: 50px;
     margin: 0 10px;
@@ -1258,7 +1266,7 @@ a.top-btn {
   section.home>.graphic1>img.ver {
     display: block;
     position: absolute;
-    top: 50px;
+    top: 13%;
     left: 50%;
     transform: translate(-50%);
     width: 134px;
@@ -1267,7 +1275,7 @@ a.top-btn {
 
   section.home>.main_txt {
     position: absolute;
-    top: 180px;
+    top: 34%;
     left: 50%;
     transform: translate(-50%);
     color: #FF2E34;
@@ -1282,7 +1290,7 @@ a.top-btn {
 
   section.home>.graphic3>.circle {
     position: absolute;
-    top: 182px;
+    top: 34%;
     left: 243px;
     width: 5px;
     height: 5px;
@@ -1292,7 +1300,7 @@ a.top-btn {
 
   section.home>.graphic3>.line {
     position: absolute;
-    top: 200px;
+    top: 36.5%;
     left: 110px;
     z-index: -1;
     width: 200px;
@@ -1302,8 +1310,9 @@ a.top-btn {
     transform: rotate(-27.53deg);
   }
 
-  section.home>.info {
-    width: 280px;
+
+  section.home>.info1 {
+    width: 250px;
     position: absolute;
     font-family: Roboto;
     font-weight: 300;
@@ -1312,12 +1321,9 @@ a.top-btn {
     letter-spacing: 0.225em;
     color: #FFFFFF;
     text-align: center;
-  }
-
-  section.home>.info1 {
-    top: 310px;
-    left: 50%;
-    transform: translate(-50%);
+    top: 51%;
+    left: 50% !important;
+    transform: translate(-50%) !important;
   }
 
   section.home>.sub_txt {
@@ -1331,11 +1337,16 @@ a.top-btn {
     white-space: nowrap;
   }
 
+  section.home>.sub_txt_rsp {
+    display: block;
+    top: 78%;
+  }
+
   section.home>.button {
-    width: 165px;
+    width: 205px;
     position: absolute;
     z-index: 100;
-    top: 500px;
+    top: 86%;
     left: 50%;
     transform: translate(-50%);
   }
