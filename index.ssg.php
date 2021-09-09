@@ -34,7 +34,7 @@
 
   <style>
     body {
-      width: 1920px;
+      width: 100vw;
       height: 100vh;
       overflow: hidden;
       position: relative;
