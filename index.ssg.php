@@ -60,7 +60,7 @@
       <div class="flex-grow none-flex-grow"></div>
       <div class="link">
         <ul class="flex h-full items-center justify-center">
-          <li><a href="https://www.instagram.com/wd_seoyeon" target="_blank">INSTAGRAM</a></li>
+          <li><a href="https://www.youtube.com/channel/UCxGUs7DXhMTVDNygrHuTN0g/videos" target="_blank">YOUTUBE</a></li>
           <li><a href="https://wiken.io/b/241" target="_blank">TECH BLOG</a></li>
         </ul>
       </div>
@@ -90,7 +90,8 @@
       We will be a good medium for proper communication through good design and valid implementation.
     </div>
     <div class="button">
-      <a href="aboutMe.html#readMore"><img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/index_btn.png" alt=""></a>
+      <a href="aboutMe.html#readMore"><img
+          src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/index_btn.png" alt=""></a>
     </div>
     <div class="graphic1">
       <img class="mousemove-effect-1-el" data-mousemove-effect1-hor-res="0.004" data-mousemove-effect1-ver-res="0.004"

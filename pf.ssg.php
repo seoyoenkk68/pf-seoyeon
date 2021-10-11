@@ -96,7 +96,7 @@ $pageCode="pf";
                     <span class="content">작업기간 2021.9</span>
                   </div>
                   <div class="btn-wrap flex justify-center">
-                    <a href="https://notefolio.net/sbyeony/256395" target="_blank" class="btn btn-1">notefolio
+                    <a href="https://notefolio.net/sbyeony/266043" target="_blank" class="btn btn-1">notefolio
                       open</a>
                     <a href="https://seoyoenkk68.github.io/yamaha_redeisgn/" target="_blank" class="btn btn-2">website open</a>
                   </div>
