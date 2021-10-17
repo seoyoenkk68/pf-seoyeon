@@ -205,10 +205,10 @@ $('body').niceScroll();
 
 // 터치가 가능한 디바이스인지 체크하는 로직 시작
 function detectTouchEnabled() {
-  if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
     return true;
   }
-  
+
   return false;
 
   // 아래 로직은 폐기 한다.
@@ -223,10 +223,9 @@ function detectTouchEnabled() {
 const isTouchEnabled = detectTouchEnabled();
 
 function Touch__init() {
-  if ( isTouchEnabled ) {
+  if (isTouchEnabled) {
     $('html').addClass('touch-enabled');
-  }
-  else {
+  } else {
     $('html').addClass('touch-disabled');
   }
 }
@@ -234,6 +233,20 @@ function Touch__init() {
 Touch__init();
 // 터치가 가능한 디바이스인지 체크하는 로직 끝
 
-if ( isTouchEnabled == false ) {
+if (isTouchEnabled == false) {
   $('body').niceScroll();
 }
+
+// 반응형 메뉴
+function ResMenu__inti() {
+  $('.hg-menu').click(function () {
+    ResMenu__Show();
+  });
+}
+
+function ResMenu__show() {
+  $('.res-menu-box').addClass('.active');
+}
+
+
+ResMenu__inti();

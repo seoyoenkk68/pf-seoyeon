@@ -117,6 +117,27 @@
     </div>
   </section>
   <!-- 섹션 끝 -->
+
+  <!--반응형 메뉴-->
+  <div class="res-menu-box md:hidden">
+    <div class="res-menu-wrap">
+      <div class="btn-close">
+        <div></div>
+        <div></div>
+      </div>
+      <ul class="res-menu">
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="aboutMe.html">ABOUT ME</a></li>
+        <li><a href="pf.html">PORTFOLIO</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+      </ul>
+      <div class="res-sub-menu-box flex justify-between">
+        <a href="https://www.youtube.com/channel/UCxGUs7DXhMTVDNygrHuTN0g/videos" class="sub-menu sub-menu-1">YOUTUBE</a>
+        <a href="https://wiken.io/b/241" class="sub-menu sub-menu-1">TECH BLOG</a>
+      </div>
+    </div>
+  </div>
+
 </body>
 
 </html>
