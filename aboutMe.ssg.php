@@ -119,49 +119,40 @@ $pageCode="aboutMe";
                 <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_ps.png" alt="">
                 <span>
                   사진 보정과 편집, 합성이 가능하며
-                  필터 및 효과를 다양하게 응용하여
-                  원하는 결과물을 도출해 낼 수 있습니다.
+                  필터 및 효과를 다양하게 응용할 수 있습니다.
                 </span>
               </div>
               <div class="box-wrap box-wrap-2 flex">
                 <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_ai.png" alt="">
                 <span>
-                  백터 이미지를 필요로 하는 로고와 아이콘
-                  제작이 가능하며 펜툴을 이용한 간단한
-                  캐릭터 드로잉이 가능합니다.
+                  로고와 아이콘 제작이 가능하며 펜툴을 이용한 간단한 캐릭터 드로잉이 가능합니다.
                 </span>
               </div>
               <div class="box-wrap box-wrap-3 flex">
                 <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_fg.png" alt="">
                 <span>
-                  오토레이아웃과, 스타일, 컴포넌트에 대한 이해가 있고
-                  이를 활용하여 일관성 있는 UI/UX 디자인이 가능합니다.
+                  오토레이아웃과, 컴포넌트에 대한 이해가 있으며 일관성 있는 디자인이 가능합니다.
                 </span>
               </div>
             </div>
-            <span class="title">Web Coding Tool</span>
+            <span class="title">Web Coding</span>
             <div class="content-box content-box-2 flex">
               <div class="box-wrap box-wrap-1 flex">
                 <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_html.png" alt="">
                 <span>
-                  사진 보정과 편집, 합성이 가능하며
-                  필터 및 효과를 다양하게 응용하여
-                  원하는 결과물을 도출해 낼 수 있습니다.
+                  웹디자인을 웹문서로 구현하기 위해 HTML 코딩을 할 수 있습니다.
                 </span>
               </div>
               <div class="box-wrap box-wrap-2 flex">
                 <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_css.png" alt="">
                 <span>
-                  백터 이미지를 필요로 하는 로고와 아이콘
-                  제작이 가능하며 펜툴을 이용한 간단한
-                  캐릭터 드로잉이 가능합니다.
+                 HTML으로 작업된 웹사이트를 반응형과 동적효과를 넣어 구현할 수 있습니다.
                 </span>
               </div>
               <div class="box-wrap box-wrap-3 flex">
                 <img src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/aboutMe_skills_jq.png" alt="">
                 <span>
-                  오토레이아웃과, 스타일, 컴포넌트에 대한 이해가 있고
-                  이를 활용하여 일관성 있는 UI/UX 디자인이 가능합니다.
+                  팝업, 탭메뉴, 스크롤트리거 등 간단한 효과를 구현할 수 있습니다.
                 </span>
               </div>
             </div>
@@ -177,7 +168,7 @@ $pageCode="aboutMe";
         <div class="con">
           <h1>Profile</h1>
           <div class="wrap flex justify-center">
-            <img src="https://i.postimg.cc/xjvy28rc/Rectangle-38.png" alt="">
+            <img src="/image/aboutMe_profileimg.jpeg" alt="">
             <div class="content-box flex flex-col justify-between">
               <span class="name">KIM<br>SEOYEON</span>
               <span class="txt txt1">BIRTH</span>

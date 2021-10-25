@@ -105,13 +105,14 @@ $pageCode="pf";
                 <div class="img img-6"></div>
               </li>
               <li>
-              <div class="content-wrap flex flex-col justify-end">
+                <div class="content-wrap flex flex-col justify-end">
                   <div class="txt-wrap">
                     <span class="title">테슬라 반응형 모작 피그마 모작, 구현</span>
                     <span class="content">작업기간 2021.10</span>
                   </div>
                   <div class="btn-wrap flex justify-center">
-                    <a href="https://www.figma.com/file/HnitnFgRHv695XdbF2vvZF/%ED%85%8C%EC%8A%AC%EB%9D%BC%EB%AA%A8%EC%9E%91" target="_blank" class="btn btn-1">figma
+                    <a href="https://www.figma.com/file/HnitnFgRHv695XdbF2vvZF/%ED%85%8C%EC%8A%AC%EB%9D%BC%EB%AA%A8%EC%9E%91"
+                      target="_blank" class="btn btn-1">figma
                       open</a>
                     <a href="https://codepen.io/sbyeony/pen/GRvryyG" target="_blank" class="btn btn-2">codepen
                       open</a>
@@ -146,6 +147,26 @@ $pageCode="pf";
                   <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork3.png"
                     alt="">
                 </a>
+              </li>
+              <li>
+                <a href="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artworkfull4.png"
+                  data-lightbox="image-1" data-title="overcomplex 로고 시안 1">
+                  <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork4.png"
+                    alt="">
+                </a>
+              </li>
+              <li>
+                <a href="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artworkfull5.png"
+                  data-lightbox="image-1" data-title="overcomplex 로고 시안 2">
+                  <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork5.png"
+                    alt="">
+                </a>
+              </li>
+              <li>
+                <div class="img empty"></div>
+              </li>
+              <li>
+                <div class="img empty"></div>
               </li>
               <li>
                 <div class="img empty"></div>

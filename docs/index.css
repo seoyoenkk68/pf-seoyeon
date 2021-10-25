@@ -840,6 +840,10 @@ html>body>#fp-nav>ul>li>a>.fp-sr-only {
   margin-bottom: 158px;
 }
 
+.profile>.con>.wrap>img {
+  width: 300px;
+}
+
 .profile>.con>.wrap>.content-box {
   margin-left: 40px;
 }
@@ -1107,6 +1111,9 @@ a.top-btn {
   visibility: visible;
 }
 
+.portfolio .body .tb-active {
+  visibility: visible;
+}
 
 
 
