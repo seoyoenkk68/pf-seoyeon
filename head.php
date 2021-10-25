@@ -88,3 +88,5 @@ else if ( $pageCode == "contact" ) {
     </div>
   </header>
   <!-- 헤더 끝 -->
+
+  <!-- php 컴파일 명령어 php .\cmd.php -->
