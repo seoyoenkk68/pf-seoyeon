@@ -69,7 +69,7 @@ else if ( $pageCode == "contact" ) {
   <!-- 헤더 시작 -->
   <header class="menu">
     <div class="wrap flex">
-      <div class="logo"><a class="flex h-full items-center justify-center" href="#">KIM-<br>SEOYEON</a></div>
+      <div class="logo"><a class="flex h-full items-center justify-center" href="index.html">KIM-<br>SEOYEON</a></div>
       <div class="menu-space"></div>
       <nav class="menu-box">
         <ul class="menu flex h-full items-center justify-between">
