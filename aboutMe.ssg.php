@@ -168,7 +168,7 @@ $pageCode="aboutMe";
         <div class="con">
           <h1>Profile</h1>
           <div class="wrap flex justify-center">
-            <img src="/image/aboutMe_profileimg.jpeg" alt="">
+            <img src="https://i.postimg.cc/KzCGZBfN/about-Me-profileimg.jpg" alt="">
             <div class="content-box flex flex-col justify-between">
               <span class="name">KIM<br>SEOYEON</span>
               <span class="txt txt1">BIRTH</span>
