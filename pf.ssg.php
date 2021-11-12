@@ -121,7 +121,17 @@ $pageCode="pf";
                 <div class="img img-7"></div>
               </li>
               <li>
-                <div class="img empty"></div>
+                <div class="content-wrap flex flex-col justify-end">
+                  <div class="txt-wrap">
+                    <span class="title">lge.co.kr 반응형 상단바 모작</span>
+                    <span class="content">작업기간 2021.10</span>
+                  </div>
+                  <div class="btn-wrap flex justify-center">
+                    <a href="https://codepen.io/sbyeony/pen/MWpRZYB" target="_blank" class="btn btn-1">process open</a>
+                    <a href="https://codepen.io/sbyeony/pen/YzZMgmX" target="_blank" class="btn btn-2">codepen open</a>
+                  </div>
+                </div>
+                <div class="img img-8"></div>
               </li>
             </ul>
           </li>
