@@ -1070,35 +1070,41 @@ a.top-btn {
 }
 
 .portfolio .img-1 {
-  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf1.png)
+  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf1.png);
 }
 
 .portfolio .img-2 {
-  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf2.png)
+  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf2.png);
 }
 
 .portfolio .img-3 {
-  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf3.png)
+  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf3.png);
 }
 
 .portfolio .img-4 {
-  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf4.png)
+  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf4.png);
 }
 
 .portfolio .img-5 {
-  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf5.jpg)
+  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf5.jpg);
 }
 
 .portfolio .img-6 {
-  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf6.png)
+  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/pf6.png);
 }
 
 .portfolio .img-7 {
-  background-image: url(https://i.postimg.cc/DwfT3xFh/pf7.png)
+  background-image: url(https://i.postimg.cc/DwfT3xFh/pf7.png);
 }
 
 .portfolio .img-8 {
-  background-image: url(https://i.postimg.cc/DZqWd8Cs/pf8.png)
+  background-image: url(https://i.postimg.cc/DZqWd8Cs/pf8.png);
+}
+
+.portfolio .img-9 {
+  background-image: url(https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/ytb.png);
+  background-size: cover;
+  background-position: center;
 }
 
 
