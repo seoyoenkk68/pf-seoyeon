@@ -1116,6 +1116,10 @@ a.top-btn {
   visibility: visible;
 }
 
+.portfolio ul.artwork li:hover .click {
+  opacity: 1;
+  transition: .3s;
+}
 
 /* 포트폴리오 끝 */
 
