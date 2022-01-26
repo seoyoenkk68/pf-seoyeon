@@ -183,10 +183,25 @@ $pageCode="pf";
                     <!-- <span class="content">작업기간 2021.10</span> -->
                   </div>
                   <div class="btn-wrap flex justify-center">
-                    <a href="https://www.youtube.com/channel/UC2F7YKJzXKCAz4_TVy8xBrQ/videos" target="_blank" class="btn btn-1">open</a>
+                    <a href="https://www.youtube.com/channel/UC2F7YKJzXKCAz4_TVy8xBrQ/videos" target="_blank"
+                      class="btn btn-1">open</a>
                   </div>
                 </div>
                 <div class="img img-9"></div>
+              </li>
+              <li>
+                <a href="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artworkfull7.png"
+                  data-lightbox="image-1" data-title="새하늘교회 포스터">
+                  <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork7.png"
+                    alt="">
+                </a>
+              </li>
+              <li>
+                <a href="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artworkfull8.png"
+                  data-lightbox="image-1" data-title="새하늘교회 포스터">
+                  <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork8.png"
+                    alt="">
+                </a>
               </li>
             </ul>
           </li>
@@ -351,10 +366,18 @@ $pageCode="pf";
                 </a>
               </li>
               <li>
-                <div class="img empty"></div>
+                <a href="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artworkfull7.png"
+                  data-lightbox="image-1" data-title="새하늘교회 포스터">
+                  <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork7.png"
+                    alt="">
+                </a>
               </li>
               <li>
-                <div class="img empty"></div>
+                <a href="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artworkfull8.png"
+                  data-lightbox="image-1" data-title="새하늘교회 포스터">
+                  <img class="aimg-1" src="https://rawcdn.githack.com/seoyoenkk68/pf-seoyeon/master/image/artwork8.png"
+                    alt="">
+                </a>
               </li>
             </ul>
           </li>
