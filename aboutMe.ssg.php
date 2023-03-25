@@ -181,11 +181,13 @@ $pageCode="aboutMe";
               <div class="flex txt txt2 txt-c">
                 <span>
                   2018.2<br>
-                  2021.4-10
+                  2021.4-10<br>
+                  2022.2~
                 </span>
                 <span>
                   한남대학교 행정학과 졸업<br>
-                  UI/UX 웹디자인/웹퍼블리셔 실무자 양성과정
+                  UI/UX 웹디자인/웹퍼블리셔 실무자 양성과정<br>
+                  이홈피넷 재직중
                 </span>
               </div>
             </div>
